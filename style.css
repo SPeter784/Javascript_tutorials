@@ -1,0 +1,26 @@
+body{
+    background-color: #628484;
+    font-size: larger;
+    padding: 0%;
+    margin: 0%;
+    margin: 0%;
+
+}
+
+.sidenav{
+    min-width: 10%;
+    max-width: 50%;
+    width: 20%;
+    background-color: #364949;
+    display: block;
+    align-self: left;
+    margin-top: 0%;
+    border-top: 0%;
+
+}
+
+
+.sidenav > h1{
+    color: white;
+
+}
