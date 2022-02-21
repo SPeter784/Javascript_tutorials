@@ -12,6 +12,9 @@ header{
     font-weight: bold;
     color: white;
     padding-left: 10%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: black;
 }
 
 .sidenav{
@@ -25,9 +28,6 @@ header{
     height: 100%;
     padding-left: 5%;
     position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 10%;
 
 }
 
@@ -37,7 +37,7 @@ header{
 
 }
 
-section{
+.main{
     display:inline;
     align-self: left;
     height: 100%;
