@@ -1,5 +1,5 @@
 body{
-    background-color: #628484;
+    background-color: #4da6ff;
     font-size: larger;
     padding: 0%;
     margin: 0%;
@@ -15,31 +15,23 @@ header{
     padding-top: 10px;
     padding-bottom: 20px;
     background-color: black;
-    
-}
-
-.sidenav{
-    width: 15%;
-    background-color: #364949;
-    display: inline;
-    align-self: left;
-    margin-top: 0%;
-    border-top: 0%;
-    font-size: normal;
-    padding-left: 5%;
-    position: fixed;
-
-}
-
-
-.sidenav > h1{
-    color: white;
 
 }
 
 .main{
-    display:inline;
-    align-self: left;
-    margin-left: 15%;
+    display: block;
+    margin: auto;
+    color: white;
+    width:70%;
+
+}
+
+.code{
+    background-color: #00264d;
+    color: white;
+    padding: 10px;
+    border: 5px solid gray;
+    border-radius: 15px;
+    font-family: serif;
 
 }
