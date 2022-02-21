@@ -15,6 +15,7 @@ header{
     padding-top: 10px;
     padding-bottom: 20px;
     background-color: black;
+    
 }
 
 .sidenav{
@@ -25,7 +26,6 @@ header{
     margin-top: 0%;
     border-top: 0%;
     font-size: normal;
-    height: 100%;
     padding-left: 5%;
     position: fixed;
 
@@ -40,6 +40,6 @@ header{
 .main{
     display:inline;
     align-self: left;
-    height: 100%;
     margin-left: 15%;
+
 }
